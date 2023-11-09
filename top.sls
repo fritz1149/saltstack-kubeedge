@@ -1,4 +1,4 @@
-dev:
+base:
     'edge*':
     - test
     - kubeedge_install
